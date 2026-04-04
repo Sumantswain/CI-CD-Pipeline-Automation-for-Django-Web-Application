@@ -6,8 +6,10 @@ This project demonstrates real-world DevOps practices using Jenkins, Docker, and
 
 🏗️ Architecture
 
-<img width="2533" height="1472" alt="Screenshot 2026-03-04 161958" src="https://github.com/user-attachments/assets/31633e49-0844-4d52-b24c-0b90fb8e5906" />
-<img width="2552" height="1521" alt="Screenshot 2026-03-02 223059" src="https://github.com/user-attachments/assets/03bee0e5-3b5c-4043-a299-0796f90d951d" />
+<img width="2533" height="1472" alt="Screenshot 2026-03-04 161958" src="https://github.com/user-attachments/assets/a2ed1f3c-b443-4279-898b-78fe4f67b689" />
+
+<img width="2552" height="1521" alt="Screenshot 2026-03-02 223059" src="https://github.com/user-attachments/assets/59f9a846-41f1-4eb3-8646-e64996d0eb99" />
+
 
 ⚙️ Tech Stack
 Frontend: React
@@ -51,7 +53,8 @@ Pushes image to Docker Hub
 Deploys on EC2 using Docker Compose
 Nginx serves the application
 
-<img width="2533" height="1472" alt="Screenshot 2026-03-04 161958" src="https://github.com/user-attachments/assets/4d2dc797-373c-4e53-8b80-51311f562e02" />
+<img width="2533" height="1472" alt="Screenshot 2026-03-04 161958" src="https://github.com/user-attachments/assets/a8c30d35-9b49-4130-a6c3-f89ffae4a590" />
+
 
 (Pipeline stages view in Jenkins)
 
@@ -71,10 +74,12 @@ Configured security groups
 Deployed using Docker Compose
 
 (EC2 instance dashboard)
-<img width="2544" height="1466" alt="Screenshot 2026-03-02 222540" src="https://github.com/user-attachments/assets/5d169077-bacc-4e55-a10c-3be3f5a66dc5" />
+<img width="2544" height="1466" alt="Screenshot 2026-03-02 222540" src="https://github.com/user-attachments/assets/1bbd4fd5-fa18-4b8b-99f8-2382bd1b326a" />
+
 
 (Final running Notes App UI)
-<img width="2552" height="1521" alt="Screenshot 2026-03-02 223059" src="https://github.com/user-attachments/assets/063e1a81-bbce-4961-ad48-bba8e449d32d" />
+<img width="2552" height="1521" alt="Screenshot 2026-03-02 223059" src="https://github.com/user-attachments/assets/22904cf8-eb22-4be9-8d57-eea8ebed5a97" />
+
 
 
 📈 Impact
